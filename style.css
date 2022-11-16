@@ -18,8 +18,8 @@ body {
 h2 {
     text-align: center;
     font-family: sans-serif;
-    background: black;
-    color: red;
+    background: red;
+    color: black;
     padding: 5px;
     margin-bottom: 10px;
 }
@@ -27,7 +27,7 @@ span {
     color: white;
 }
 #text-area {
-    height: 70%;
+    height: 82%;
     padding: 0 10px;
     overflow-y: scroll;
     scroll-behavior: smooth;
@@ -43,6 +43,11 @@ span {
 h3 {
     font-family: monospace;
     font-size: 14px;
+    width: 100%;
+    max-width: 60%;
+    padding: 5px;
+    border-radius: 0 10px 10px 10px;
+    background: rgb(235, 226, 226);
 }
 #input {
     height: 7%;

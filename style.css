@@ -27,7 +27,7 @@ span {
     color: white;
 }
 #text-area {
-    height: 82%;
+    height: 75%;
     padding: 0 10px;
     overflow-y: scroll;
     scroll-behavior: smooth;
